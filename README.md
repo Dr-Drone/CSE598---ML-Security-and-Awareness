@@ -4,7 +4,7 @@ ML Security and Awareness
 This document is a proposal for CSE598 Machine Learning Security and Fairness taught by Dr. Chaowei Xiao. The idea behind this proposal is to develop ways in which we can defend against adversarial attacks on Voice Controlled Systems.
 
 Authors: Atharva Anand Barwe & Pawan Vijayangar
-Professor: 
+Professor: Chaowei Xiao
 
 
 Dataset used: https://urbansounddataset.weebly.com/urbansound8k.html
